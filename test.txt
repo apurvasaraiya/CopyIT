@@ -3,3 +3,8 @@ str2
 str3
 str4
 str5
+
+strx
+stry
+strz
+
